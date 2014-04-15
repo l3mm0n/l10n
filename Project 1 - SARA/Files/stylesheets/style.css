@@ -1,0 +1,431 @@
+
+body {
+	font-family:'Roboto Slab';
+	font-weight:400;
+	font-size:12pt;
+	color: #A39770;
+	margin:0;
+	/*background-color:#013ca6;*/
+	background-color:#FFFFFF;
+}
+
+h1, h2, h3, h4 {
+	font-family:'Nunito', sans-serif;
+	font-weight:300;
+}
+
+a {
+	color:inherit;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+/*==========================================================================*/
+/*								SECTION CONTENT 							*/
+/*==========================================================================*/
+#main {
+	color:#2E2E2D;
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	position:relative;
+	top:0;
+	left:0;
+}
+
+.section {
+	margin:0;
+	text-align:left;
+	z-index:5;
+	/*background-color:#FFFFFF;*/
+}
+
+.narrow {
+	width:780px;
+	/*background-color:rgba(239,245,255,1);*/
+	/*background-color:#eff5ff;*/ /*this blue is too dark*/
+	/*background-color:#fbfdff;*/ /*this blue looks funny*/
+	background-color:#FFFFFF;
+}
+
+.wide {
+	width:100%;
+}
+
+.section .content {
+	padding:1em 4em;
+}
+
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	border-left: 2em solid transparent;
+	border-right: 2em solid transparent;
+	border-top-width: 2em;
+	border-top-style: solid;
+	/*border-top-color is set for each section to properly grab the color*/
+	z-index:10;
+	position:relative;
+	bottom: -1.5em;
+}
+
+/*==========================================================================*/
+/*								WHITE SECTION 								*/
+/*==========================================================================*/
+
+/*.white {
+	background-color:#FFFFFF;
+}*/
+
+.white h1 {
+	/*text-shadow:2px 2px 2px #CCCCCC;*/
+	color:#000000;
+}
+
+.white .arrow-down {
+	border-top-color:#FFFFFF;
+}
+
+/*==========================================================================*/
+/*								GRAY SECTION 								*/
+/*==========================================================================*/
+
+/*.gray {
+	background-color:#FFFFFF;
+}*/
+
+.gray h1 {
+	/*text-shadow:2px 2px 2px #000000;*/
+	color:#2E2E2D;
+}
+
+.gray .arrow-down {
+	border-top-color:#2E2E2D;
+}
+
+/*==========================================================================*/
+/*								ORANGE SECTION 								*/
+/*==========================================================================*/
+
+/*.orange {
+	background-color:#FFFFFF;
+}*/
+
+.orange h1 {
+	/*text-shadow:2px 2px 2px #333333;*/
+	color:#e63c2e;
+}
+
+.orange .arrow-down {
+	border-top-color:#e63c2e;
+}
+
+/*==========================================================================*/
+/*							LT ORANGE SECTION 								*/
+/*==========================================================================*/
+
+/*.lightorange {
+	background-color:#FFFFFF;
+}*/
+
+.lightorange h1 {
+	/*text-shadow:2px 2px 2px #333333;*/
+	color:#f88973;
+}
+
+.lightorange .arrow-down {
+	border-top-color:#f88973;
+}
+
+
+/*==========================================================================*/
+/*								BLUE SECTION 								*/
+/*==========================================================================*/
+
+/*.blue {
+	background-color:#FFFFFF;
+}*/
+
+.blue h1 {
+	/*text-shadow:2px 2px 2px #333333;*/
+	color:#013ca6;
+}
+
+.blue .arrow-down {
+	border-top-color:#013ca6;
+}
+
+
+/*==========================================================================*/
+/*								CIRCLE STYLE 								*/
+/*==========================================================================*/
+
+.circle {
+	border-radius: 50%;
+	width: 1.5em;
+	height: 1.5em;
+	float:left;
+	font-size:18pt;
+	border-size:.1em;
+	border-style:solid;
+	text-align:center;
+	vertical-align:middle;
+	margin-right:1em;
+	margin-bottom:1em;
+	box-shadow: .25em .25em .5em #000000;
+	opacity:1;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+
+.circleOrange{ 
+	border-color:#e63c2e;
+}
+
+.circleBlue{ 
+	border-color:#013ca6;
+}
+
+p.block {
+	clear:both;
+}
+
+/*==========================================================================*/
+/*								HEADER CONTENT 								*/
+/*==========================================================================*/
+.logo {
+	/*width:200px;*/
+	height:100%;
+	padding-left:4em;
+	
+}
+
+#header {
+	background-color:#FFFFFF;
+	height:50px;
+	padding-top:.5em;
+	padding-bottom:.5em;
+}
+
+#header #account {
+	padding-right:4em;
+	float:right;
+}
+
+.language {
+	background-color:#013ca6;
+	color:#FFFFFF;
+	font-size:12pt;
+	border:1px solid #FFFFFF;
+	border-radius:.5em;
+	padding:0em .25em;
+	font-family:'Nunito', sans-serif;
+	font-weight:300;
+	text-shadow:0px 0px 0px #000000;
+}
+
+#languageDiv {
+	float:right;
+	padding-right:3em;
+	vertical-align:middle;
+}
+
+#languageDiv a{
+	font-weight:normal;
+}
+
+#languageDiv a:hover{
+	text-decoration:none;
+	font-weight:normal;
+}
+
+#languagePicker ul{
+	list-style:none;
+	
+}
+
+/*==========================================================================*/
+/*								TAGLINE CONTENT 							*/
+/*==========================================================================*/
+#tagline h2 {
+	font-size:18pt;
+}
+
+/*==========================================================================*/
+/*								ROTATING BANNER								*/
+/*==========================================================================*/
+
+#rotatingBanner {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	z-index:-9999;
+}
+
+#rotatingBanner img.rotateImg {
+	min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:-9999;
+
+    /* SARAH TODO: fade these images into the background...*/
+
+}
+
+/*==========================================================================*/
+/*								SIGNUP CONTENT 								*/
+/*==========================================================================*/
+#signup {
+	min-height:450px;
+	height:75%;
+	font-size:8pt;
+	position:relative; /*this is the magic that makes the inclusive divs layer appropriately*/
+}
+
+#signup h1 {
+	font-size:2em;
+	margin-bottom:.1em;
+}
+
+#signup h2 {
+	font-size:1.75em;
+	margin-top:.1em;
+}
+
+#signup .content {
+	position:absolute;
+	left:0;
+	z-index:20;
+	color:#FFFFFF;
+	text-shadow:2px 2px 2px #000000;
+	font-size:12pt;
+}
+
+#signup .top {
+	top:0;
+	width:50%;
+}
+
+#signup .bottom {
+	bottom:0;
+	width:300px;
+	padding-left:50%;
+	left:-380px;
+}
+
+.signupForm {
+	width:40%;
+}
+
+.signupForm input[type=text], .signupForm input[type=password] {
+	border:1px solid #333333;
+	background-color:rgba(255,255,255,.75);
+	border-radius:.25em;
+	margin-bottom:1em;
+	width:250px;
+	box-shadow:2px 2px 2px rgba(0,0,0,.50);
+	color:#000000;
+	font-size:12pt;
+	padding:.1em;
+	font-weight:700;
+}
+
+.signupForm input[type=submit] {
+	/*background-color:#FF8500;*/
+	background-color:#e63c2e;
+	color:#FFFFFF;
+	font-size:18pt;
+	/*border:1px solid #333333;*/
+	border:1px solid #FFFFFF;
+	/*border:0;*/
+	border-radius:.5em;
+	padding:0em .25em;
+	font-family:'Nunito', sans-serif;
+	font-weight:300;
+	/*box-shadow:2px 2px 2px #333333;*/
+}
+
+#signupButton {
+	background-color:#e63c2e;
+	color:#FFFFFF;
+	font-size:18pt;
+	border:1px solid #FFFFFF;
+	border-radius:.5em;
+	padding:0em .25em;
+	font-family:'Nunito', sans-serif;
+	font-weight:300;
+	text-shadow:0px 0px 0px #000000;
+}
+
+.button:hover{
+	text-decoration: none;
+}
+
+
+/*==========================================================================*/
+/*								ABOUT CONTENT 								*/
+/*==========================================================================*/
+
+#about div.arrow-down {
+	left:25%;
+}
+
+
+/*==========================================================================*/
+/*								HOW CONTENT 								*/
+/*==========================================================================*/
+
+#how div.arrow-down {
+	left: 50%;
+}
+
+/*==========================================================================*/
+/*							SMARTPHONE CONTENT 								*/
+/*==========================================================================*/
+
+#smartphone div.arrow-down {
+	left:75%;
+}
+
+/*==========================================================================*/
+/*							FIRST RESPONDER CONTENT 						*/
+/*==========================================================================*/
+
+
+
+/*==========================================================================*/
+/*								FOOTER CONTENT 								*/
+/*==========================================================================*/
+#footer {
+	width:100%;
+	margin:0;
+	background-color:#FFFFFF;
+	color:#2E2E2D;
+	vertical-align:top;
+	text-align: center;
+	float:left;
+}
+
+/*==========================================================================*/
+/*							MY ACCOUNT PAGE 								*/
+/*==========================================================================*/
+
+#basicInfo {
+	float:left;
+	width:50%;
+}
+
+#location {
+	float:right;
+	width:50%;
+}

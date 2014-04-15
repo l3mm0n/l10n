@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20140215T155849Z" creationid="BYU\eapage">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">SARA Chinese</prop>
+  </header>
+  <body>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Search and Rescue Alerts</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>Search and Rescue Alerts</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-763035112156119385, -1728882359245369009</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="9" x="1" /><bpt i="2" type="7" x="2" />Español<ept i="2" /><ept i="1" /> <bpt i="3" type="15" x="3" /><bpt i="4" type="13" x="4" />English<ept i="4" /><ept i="3" /> <bpt i="5" type="21" x="5" /><bpt i="6" type="19" x="6" />Português<ept i="6" /><ept i="5" /> <bpt i="7" type="27" x="7" /><bpt i="8" type="25" x="8" />Simplified Chinese<ept i="8" /><ept i="7" /></seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg><bpt i="1" type="9" x="1" /><bpt i="2" type="7" x="2" />Español<ept i="2" /><ept i="1" /> <bpt i="3" type="15" x="3" /><bpt i="4" type="13" x="4" />English<ept i="4" /><ept i="3" /> <bpt i="5" type="21" x="5" /><bpt i="6" type="19" x="6" />Português<ept i="6" /><ept i="5" /> <bpt i="7" type="27" x="7" /><bpt i="8" type="25" x="8" />简体中文<ept i="8" /><ept i="7" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">4963786463626982659, 2402904461663268877</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="34" x="1" /><bpt i="2" type="32" x="2" />Sign Up!<ept i="2" /><ept i="1" /> or <bpt i="3" type="37" x="3" />Log In<ept i="3" /></seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg><bpt i="1" type="34" x="1" /><bpt i="2" type="32" x="2" />注册！<ept i="2" /><ept i="1" />或<bpt i="3" type="37" x="3" />登录<ept i="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-9026269817428637788, 26394777772</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Sign Up</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>注册</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">109018681351934, 885156</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>to help bring friends and families back together</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>帮助带朋友和家人一起回来</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">6200195250224914831, 3413589906602800195</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Email Address</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>电子邮件地址</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-7318166712370466655, 881729441619</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">3376811136279621, 759035</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Phone Number</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>电话号码</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">104687001116275063, 928984626</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="55" /><bpt i="2" type="53" />Sign Up!<ept i="2" /><ept i="1" /> or <bpt i="3" type="58" />Log In<ept i="3" /></seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg><bpt i="1" type="34" /><bpt i="2" type="32" />注册！<ept i="2" /><ept i="1" />或<bpt i="3" type="37" />登录<ept i="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-9026269817428637788, 26394777772</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>关于</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">112921412107, 666491</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>SARA (Search and Rescue Alerts) harnesses the power of caring citizens to help find missing people and return them safely home.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>SARA（英文：Search and Rescue Alerts，中文：搜救警报）利用爱心市民的力量帮助寻找失踪的人送他们安全回家。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">8068867799241922932, 7269590263474015811</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>SARA uses cell phone texts to alert the public about missing persons so they can help search as they go about their daily activities.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>SARA使用手机文本提醒公众失踪的人员使他们在日常活动中可以帮助搜索。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-690280431640123095, 7060127354038267478</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Text messages are sent to your phone from approved Law Enforcement agencies which may include a photo and description of the individual, information about the circumstances, and details about organized searches or places where tips can be directed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>短信由执法机构发送到您的手机。这些短信可能包括个人的照片和描述、信息和说明、以及有关组织搜索的详细信息或有用的线索。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-4827118198115097303, -5625289098776877106</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>A Missing Person Poster in the palm of your hand!</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>失踪的人士海报在您的手中！</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">8234099959700044323, 2058769606394235964</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>People who want to receive notifications of missing persons in your area are invited to register for SARA on this website.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>邀请人们决策以便收到所在区域有关失者的信息。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">3448517663434349576, 662534892965251175</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Supported Law Enforcement agencies will send time-sensitive notifications directly to your phone or computer.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>执法机构将实时发送通知到您的手机或电脑。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">1874508695187713998, -7857254733987262344</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Don't think you have time to help search?</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>您以为您没有时间来帮助搜索？</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-4391889306363453359, 5478176088424951829</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Think Again</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>在想想</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">8471962518177675746, 22236040</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>How It Works</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>如何工作</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">8173180227277388322, 702913386</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="71" x="1" />1<ept i="1" /> Sign up here or Sign up with Facebook.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg><bpt i="1" type="71" x="1" />1<ept i="1" /> 注册这里或者使用Facebook注册。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-7497770589828281953, -3597747385417104057</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="74" x="1" />2<ept i="1" /> <bpt i="2" type="77" x="2" />Receive a single opt-in welcome message.<ept i="2" /></seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg><bpt i="1" type="74" x="1" />2<ept i="1" /> <bpt i="2" type="77" x="2" />收到一个选择加入的欢迎信息。<ept i="2" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">2324130649048296444, 1866006918852312523</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Reply YES to continue to receive SMS text messages.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>回复YES继续接收短信。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-6289148315530876743, 383000880087803395</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>You may opt out at any point by sending STOP to 123456.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>您可以在任何时候通过发送STOP到123456选择退出。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-8506788748191177161, 3821880260664408830</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Send HELP to 123456 for information.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>发送HELP到123456获取</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-4199123116850960049, 19314831488409752</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>No charge but Message and Data rates may apply.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>免费，可是消息和数据率可能适用。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-4929843883913053953, 3944949359165564452</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Message frequency varies.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>消息频变换。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-5620467364585676408, 26669203860</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="80" x="1" />3<ept i="1" /> Start helping with the search from right where you are.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg><bpt i="1" type="80" x="1" />3<ept i="1" /> 您在任何地方都可以开始搜索。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">1578711571799591462, 1415753182693507639</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Just being alert on the roads, at the store, and in your own neighborhood will help.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>无论在路上，还是在商店或在家附近您的警觉都将有所艘帮助。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">3389846239234843369, -1610497358070057668</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>You never know when you will see something that makes the difference.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>您永远不知道不知道什么时候您会看到的东西，会起使用。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">593232561345112667, 4135513400981054015</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Have a smartphone?</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>拥有智能手机？</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-9156028198928477969, 749978006038</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Check out our app.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>看看我们的应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-6292082880610590199, 26853189255067393</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Become a first responder</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>成为先遣队员</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-7953137814435441433, 737857263774</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>First responders are approved in advance of an official search and may receive priority alerts.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>先遣队员获得官方的人可可以收到优先级警报。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-1728198304965084797, 6509110529795874978</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>If you opt in as a first responder, your information will be used for a background check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>如果您选择加入先遣队员，将对您的信息作背景调查。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-2234796018975173069, 9079032244831830205</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>If an official search is organized in a specific area, you will be notified of the place and time.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>如果官方组织在一个特定的区域进行搜索，您将收到具体的地点和时间。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-4796431013699960831, 6617804415778164284</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Then you may be pre-approved to search and can skip the lines at the search headquarters.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>然后，您可以获得预先批准进行搜索也不用等等可以跳过线的搜索总部。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-4502413907841279417, 1150218185140189070</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>"I would want everyone looking for my child if something went wrong."</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>如果出事了，我希望每个人都在寻找我的孩子。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">2843687908027691854, -6825107269786394558</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>SIGN UP USING YOUR PHONE.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>使用您的手机注册。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-1647607557485016590, 587264415424472</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Simply text any zip code to 123456 and receive real-time alerts and advisories directly from your local police department and other local agencies.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>发送由编到123456，可以直接从当地的公安部门和其他当地机构收到实时警报和咨询。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">4361314638683300157, -6284897744351833170</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>There is no charge for registering, but standard text messaging rates associated with your mobile phone service will apply.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>不收取任何注册费用，但移动电话运营商会收取标准的用。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">5217877427335775996, -1254426191832206131</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>You can opt out at any time by texting "STOP" to 123456.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>您可以在任何时间通过法短信"STOP"到123456选择退出。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-6638634890970318055, 4656507725552577736</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>If you're texting a zip code to 123456 and using SARA for the first time, you can retrieve a temporary password to complete the registration process here.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>如果是第一次用SARA，可以法您邮政编码到123456，您会收到一个临时密码，完成注册过程。</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-588067335250858824, 3172711531139353234</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Completing the registration process will allow you to fully customize how messages reach you - whether by mobile phone, email, or over the web at www.SARA.com - you decide!</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>完成注册程序后您可以自定义收取消息的途径 - 手机、电子邮件、或www.SARA.com - 您选择！</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T160800Z" creationid="BYU\eapage" changedate="20140215T160800Z" changeid="BYU\eapage" lastusagedate="20140215T160800Z">
+      <prop type="x-Context">-9100618264462086983, 5689157168401311254</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>© Search and Rescue Alert, LLC 2014</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN">
+        <seg>© Search and Rescue Alert, LLC 2014</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

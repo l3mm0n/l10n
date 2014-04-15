@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20140208T190451Z" creationid="BYU\dandesp">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">SARA Spanish TM</prop>
+  </header>
+  <body>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-1728198304965084797, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>If you opt in as a first responder, your information will be used for a background check.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Si participa en el servicio de primera respuesta, su información será usada para hacer una revisión de antecedentes.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-2234796018975173069, -1358073289463580554</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>If an official search is organized in a specific area, you will be notified of the place and time.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Si una búsqueda oficial se organiza en una área específica, ud será informado del lugar y tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-4796431013699960831, -1556068196932773352</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Then you may be pre-approved to search and can skip the lines at the search headquarters.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Entonces puede que sea pre aprobado para buscar y puede pasar por alto las filas en la sede de búsquedas.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-4502413907841279417, 4586446075057694686</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>"I would want everyone looking for my child if something went wrong."</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>"Quererría que todos estuvieron buscando a mi hijo si algo pasara".</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">2843687908027691854, 7622394995644824451</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>SIGN UP USING YOUR PHONE.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>REGISTRARSE CON SU CELULAR.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-1647607557485016590, -243187903744053776</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Simply text any zip code to 123456 and receive real-time alerts and advisories directly from your local police department and other local agencies.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Simplemente envia su código postal al número 123456 para recibir avisos actualizados directamente de su departamento policial local y otras agencias locales.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">4361314638683300157, 8279284771470577569</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>There is no charge for registering, but standard text messaging rates associated with your mobile phone service will apply.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>No se cobra al registrarse, pero se aplicarán las tarifas correspondientes a mensajes de texto.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">5217877427335775996, -2440115235863422467</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>You can opt out at any time by texting "STOP" to 123456.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Puede dejar de participar en cualquier momento al enviar "STOP"al número 123456.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-6638634890970318055, 2286520721542669281</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>If you're texting a zip code to 123456 and using SARA for the first time, you can retrieve a temporary password to complete the registration process here.</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Si envia un mensaje de texto de código postal al número 123456 o usa SARA por primera vez, puede recibir una contraseña temporal para completar el proceso de registración aquí.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-588067335250858824, 8351360793890961833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Completing the registration process will allow you to fully customize how messages reach you - whether by mobile phone, email, or over the web at www.SARA.com - you decide!</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Completar el proceso de registración le permite personalizar la manera que los mensajes le lleguen - o por celular, correo electrónico o por el sitio de web www.SARA.com - ¡ud elige!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140208T200513Z" creationid="BYU\dandesp" changedate="20140208T200513Z" changeid="BYU\dandesp" lastusagedate="20140208T200546Z" usagecount="1">
+      <prop type="x-Context">-9100618264462086983, 2287486339334186090</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <tuv xml:lang="en-US">
+        <seg>Search and Rescue Alert, LLC 2014</seg>
+      </tuv>
+      <tuv xml:lang="es-US">
+        <seg>Search and Rescue Alert, LLC 2014</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

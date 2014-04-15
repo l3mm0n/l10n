@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20140215T081326Z" creationid="FILIPECASTRO\Filipe">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">PortugueseSARAProject</prop>
+  </header>
+  <body>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Search and Rescue Alerts</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Search and Rescue Alerts ou Alertas de busca e resgate</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T161632Z">
+      <prop type="x-Context">-763035112156119385, -6948615085767732923</prop>
+      <prop type="x-Context">104687001116275063, 3377554453095080</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="11" /><bpt i="2" type="9" />Sign Up!<ept i="2" /><ept i="1" /> or <bpt i="3" type="14" />Log In<ept i="3" /></seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Registe-se! ou Iniciar Sessão</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-9026269817428637788, -8335090938436191381</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Sign Up</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Registe-se!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">109018681351934, 3515729478602</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>to help bring friends and families back together</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Para voltar a juntar amigos e familiares</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">6200195250224914831, -2462582782121263413</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Email Address</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Endereço de Email</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-7318166712370466655, 3687770850480025332</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Palavra-passe</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">3376811136279621, 3376804407576946</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Phone Number</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>NºTelemóvel</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-9026269817428637788, -8335090938436191381</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Sobre</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">112921412107, 3659624276</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>SARA (Search and Rescue Alerts) harnesses the power of caring citizens to help find missing people and return them safely home.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>SARA (Search and Rescue Alerts ou Alertas de Busca e Resgate) junta pessoas preocupadas para ajudar a encontrar pessoas desaparecidas e retorna-los em segurança para casa.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">8068867799241922932, 9127194871607103132</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>SARA uses cell phone texts to alert the public about missing persons so they can help search as they go about their daily activities.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>SARA manda mensagens de texto para o seu telemóvel para alertar o publico sobre pessoas desaparecias para que você possa ajudar enquanto continua com as suas actividades diárias.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-690280431640123095, -2140405051755133964</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Text messages are sent to your phone from approved Law Enforcement agencies which may include a photo and description of the individual, information about the circumstances, and details about organized searches or places where tips can be directed.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>As mensagens de texto são mandadas para o seu telemóvel por agencias policiais e podem incluír coisas como fotos, descrições, informações sobre as circustancias, detalhes sobre as buscas ou onde você pode partilhar pistas sobre a localização da pessoa.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-4827118198115097303, -172364579793069787</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>A Missing Person Poster in the palm of your hand!</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Um poster de uma pessoa desaparecida na palma da sua mão!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">8234099959700044323, -5013213487232367900</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>People who want to receive notifications of missing persons in your area are invited to register for SARA on this website.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pessoas que queiram receber notificações de pessoas desaparecidas na sua área estão convidadas a registarem-se para os SARA neste website.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">3448517663434349576, 4138218952390536674</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Supported Law Enforcement agencies will send time-sensitive notifications directly to your phone or computer.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Agencias Policiais vão mandar informações actualizadas diretamente para o seu telemóvel ou computador.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">1874508695187713998, -9202612690703475841</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Don't think you have time to help search?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pensa que não tem tempo para ajudar nas buscas?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-4391889306363453359, -803620297583469445</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Think Again</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Pense de novo.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">8471962518177675746, 8368006634845759964</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>How It Works</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Como funciona</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">8173180227277388322, 3234825604291990875</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="51" />1<ept i="1" /> Sign up here or Sign up with Facebook.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Registe-se aqui ou Registe-se com o Facebook.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-7497770589828281953, 8145919013430966937</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="54" />2<ept i="1" /> <bpt i="2" type="57" />Receive a single opt-in welcome message.<ept i="2" /></seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Receba uma unica mensagem de participação e boas vindas.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">2324130649048296444, -5466779825803126727</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Reply YES to continue to receive SMS text messages.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Responda YES para continuar a receber mensagens de texto.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-6289148315530876743, 2195197525966966283</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You may opt out at any point by sending STOP to 123456.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Você pode sair do programa a qualquer momento mandando STOP para o número 123456.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-8506788748191177161, 8864870390284338927</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Send HELP to 123456 for information.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Mande HELP para o número 123456 para informações.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-4199123116850960049, 9111528272132834836</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>No charge but Message and Data rates may apply.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Nenhum custo excluindo custo do seu tarifário será aplicado .</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-4929843883913053953, -3226080823107682388</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Message frequency varies.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Frequencia das mensagens não é constante.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="1" type="60" />3<ept i="1" /> Start helping with the search from right where you are.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Começe a ajudar com as buscas do sitio onde se encontra.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">1578711571799591462, -9143437890608916507</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Just being alert on the roads, at the store, and in your own neighborhood will help.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Estar alerta nas estradas, nas lojas e no seu bairro é o suficience para ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">3389846239234843369, 5774707795698866215</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You never know when you will see something that makes the difference.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Você nunca sabe quando ira ver algo que possa fazer a diferença.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">593232561345112667, 8738479213909786629</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Have a smartphone?</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Têm um smartphone?</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-9156028198928477969, 4292216171754777485</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Check out our app.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Veja a nossa aplicação!</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-6292082880610590199, 4641443157029318800</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Become a first responder</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Torne-se um socorrista prioritario.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-7953137814435441433, -7224511184916004810</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>First responders are approved in advance of an official search and may receive priority alerts.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Socorristas prioritarios são aprovados primeiro para uma busca oficial e podem receber alertas primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-1728198304965084797, 4771285198812515175</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>If you opt in as a first responder, your information will be used for a background check.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Se participar como um socorrista prioritario as suas informações serão usadas para uma verificação.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-2234796018975173069, 5204219450413776354</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>If an official search is organized in a specific area, you will be notified of the place and time.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Se uma busca oficial é organizada numa area especifica, você sera notificado do sitio e da hora.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-4796431013699960831, -721667170315035393</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Then you may be pre-approved to search and can skip the lines at the search headquarters.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Então poderá ser pre-aprovado para procurar e ultrapassar as linhas no centro de procura.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-4502413907841279417, -7471681938854784726</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>"I would want everyone looking for my child if something went wrong."</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>"Eu iria querer todo o mundo procurando pelos meus filhos se algo de errado acontece-se."</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">2843687908027691854, -1840464561062427907</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>SIGN UP USING YOUR PHONE.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>REGISTE-SE USANDO O SEU TELEMÓVEL.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-1647607557485016590, 3044683045311510243</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Simply text any zip code to 123456 and receive real-time alerts and advisories directly from your local police department and other local agencies.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Basta mandar uma mensagem de texto com qualquer codigo postal para o número 123456 e receba alertas em tempo real e informações diretamente da seu departamento da policia local e outras agencias.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">4361314638683300157, -7131793638776996815</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>There is no charge for registering, but standard text messaging rates associated with your mobile phone service will apply.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>O registo é grátis mas os custos do seu tarifário vão ser aplicados.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">5217877427335775996, -4259807117146189164</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>You can opt out at any time by texting "STOP" to 123456.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Você pode sair do programa a qualquer momento mandando STOP para o número 123456.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-6638634890970318055, 8864870390284338927</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>If you're texting a zip code to 123456 and using SARA for the first time, you can retrieve a temporary password to complete the registration process here.</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Se estiver mandando um codigo postal para o número 123456 e usando o SARA pela primeira vez, você pode receber uma password temporaria para completar o registo aqui.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20140215T090416Z" creationid="FILIPECASTRO\Filipe" changedate="20140215T090416Z" changeid="FILIPECASTRO\Filipe" lastusagedate="20140215T090416Z">
+      <prop type="x-Context">-588067335250858824, 699663531930766611</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Completing the registration process will allow you to fully customize how messages reach you - whether by mobile phone, email, or over the web at www.SARA.com - you decide!</seg>
+      </tuv>
+      <tuv xml:lang="pt-PT">
+        <seg>Completar o registo vão permitir que você defina como as mensagens chegam - Através do telemóvel, email, ou através da internet em www.SARA.com - você decide!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
